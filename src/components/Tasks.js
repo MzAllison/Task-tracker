@@ -4,9 +4,9 @@ const Tasks = ({ tasks, onDelete, onToggle }) => {
     
     return (
         <>
-            {tasks.map((task, index) => (
+            {tasks.map((task) => (
             < Task 
-            key={index} 
+            key={task.id} 
             task={task}
             onDelete={onDelete} 
             onToggle={onToggle}
