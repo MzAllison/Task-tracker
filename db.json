@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "React crash course",
+      "day": "Dec 12th at 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting with the girls",
+      "day": "Dec 13th at 8:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Study with friends",
+      "day": "Dec 14th at 11:00pm",
+      "reminder": false
+    },
+    {
+      "text": "test me ",
+      "day": "moi",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
