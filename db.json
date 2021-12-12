@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Study with friends",
       "day": "Dec 14th at 11:00pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "test me ",
